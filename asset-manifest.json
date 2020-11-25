@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://trychats.com/static/css/main.706f5306.chunk.css",
+    "main.js": "https://trychats.com/static/js/main.c208da90.chunk.js",
+    "main.js.map": "https://trychats.com/static/js/main.c208da90.chunk.js.map",
+    "runtime-main.js": "https://trychats.com/static/js/runtime-main.bb185f7d.js",
+    "runtime-main.js.map": "https://trychats.com/static/js/runtime-main.bb185f7d.js.map",
+    "static/js/2.b8e8ea6b.chunk.js": "https://trychats.com/static/js/2.b8e8ea6b.chunk.js",
+    "static/js/2.b8e8ea6b.chunk.js.map": "https://trychats.com/static/js/2.b8e8ea6b.chunk.js.map",
+    "static/js/3.afb8df84.chunk.js": "https://trychats.com/static/js/3.afb8df84.chunk.js",
+    "static/js/3.afb8df84.chunk.js.map": "https://trychats.com/static/js/3.afb8df84.chunk.js.map",
+    "index.html": "https://trychats.com/index.html",
+    "static/css/main.706f5306.chunk.css.map": "https://trychats.com/static/css/main.706f5306.chunk.css.map",
+    "static/js/2.b8e8ea6b.chunk.js.LICENSE.txt": "https://trychats.com/static/js/2.b8e8ea6b.chunk.js.LICENSE.txt",
+    "static/media/drum.5ae1d20c.svg": "https://trychats.com/static/media/drum.5ae1d20c.svg",
+    "static/media/drumbeat.e0f520f5.mp3": "https://trychats.com/static/media/drumbeat.e0f520f5.mp3",
+    "static/media/musical-note.49e6a279.svg": "https://trychats.com/static/media/musical-note.49e6a279.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb185f7d.js",
+    "static/js/2.b8e8ea6b.chunk.js",
+    "static/css/main.706f5306.chunk.css",
+    "static/js/main.c208da90.chunk.js"
+  ]
+}
